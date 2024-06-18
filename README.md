@@ -1,16 +1,22 @@
-### Hi there 👋
+## Naman Sonawane - Full Stack Developer
 
-<!--
-**naman-sonawane/naman-sonawane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills
 
-Here are some ideas to get you started:
+<p align="center"></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,react,figma,java,tailwind,html,css" />
+  </a>
+</p>
+
+Feel free to explore my GitHub repositories and projects. Let's connect!
+
+LinkedIn: [Naman Sonawane](https://www.linkedin.com/in/naman-sonawane/)
+
+Feel free to reach out to me on LinkedIn for networking and collaboration!
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naman-sonawane&" alt="naman-sonawane" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naman-sonawane&show_icons=true&locale=en" alt="naman-sonawane" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naman-sonawane&show_icons=true&locale=en&layout=compact" alt="naman-sonawane" /></p>
