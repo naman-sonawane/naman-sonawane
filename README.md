@@ -6,7 +6,7 @@
 </p>
 
 Feel free to explore my GitHub repositories and projects.
-<p>Let's connect on [LinkedIn](https://www.linkedin.com/in/naman-sonawane/)!</p>
+<p>Let's connect on <a href="https://www.linkedin.com/in/naman-sonawane/">LinkedIn</a>!</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naman-sonawane&show_icons=true&locale=en&layout=compact&theme=dark" alt="naman-sonawane" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naman-sonawane&show_icons=true&locale=en&theme=dark" alt="naman-sonawane" /></p>
