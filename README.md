@@ -1,3 +1,5 @@
+![Frame 3](https://github.com/user-attachments/assets/ccf4f6ea-8ad3-4748-8a58-c93d4d7a4c16)
+
 ## Naman Sonawane - Full Stack Developer
 <p align="left">
   <a href="https://skillicons.dev">
