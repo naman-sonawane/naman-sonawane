@@ -1,4 +1,4 @@
-![Frame 3](https://github.com/user-attachments/assets/ccf4f6ea-8ad3-4748-8a58-c93d4d7a4c16)
+![Frame 3 (1)](https://github.com/user-attachments/assets/ea39d8b8-7d5a-406f-8e07-084c1fc8574c)
 
 ## Naman Sonawane - Full Stack Developer
 <p align="left">
