@@ -1,8 +1,12 @@
-![Frame 3 (1)](https://github.com/user-attachments/assets/ea39d8b8-7d5a-406f-8e07-084c1fc8574c)
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/21a3d0d3-fb1f-475b-a2bf-3df5722bb667">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/ea39d8b8-7d5a-406f-8e07-084c1fc8574c">
+  <img src="https://github.com/user-attachments/assets/ea39d8b8-7d5a-406f-8e07-084c1fc8574c" alt="Your Profile Image" width="300" />
+</picture>
 
-Feel free to explore my GitHub repositories and projects.
+<p>Feel free to explore my GitHub repositories and projects.</p>
 <p><a href="https://www.linkedin.com/in/naman-sonawane/">LinkedIn</a> :)</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naman-sonawane&show_icons=true&locale=en&layout=compact&theme=gotham" alt="naman-sonawane" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naman-sonawane&show_icons=true&locale=en&theme=gotham" alt="naman-sonawane" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naman-sonawane&theme=gotham" alt="naman-sonawane" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naman-sonawane&show_icons=true&locale=en&layout=compact&theme=gotham" alt="naman-sonane" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naman-sonawane&show_icons=true&locale=en&theme=gotham" alt="naman-sonane" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naman-sonawane&theme=gotham" alt="naman-sonane" /></p>
