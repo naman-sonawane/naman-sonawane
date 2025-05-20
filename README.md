@@ -4,7 +4,7 @@
   <img src="https://github.com/user-attachments/assets/21a3d0d3-fb1f-475b-a2bf-3df5722bb667" alt="Image" />
 </picture>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=naman-sonawane&theme=ocean-gradient&hide_border=true&border_radius=9" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=naman-sonawane&theme=ocean-gradient&hide_border=true&border_radius=10&background=45%2C000000%2C3B3B3B&fire=17EB60&dates=17EB60" alt="GitHub Streak" /></a>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naman-sonawane&show_icons=true&theme=ambient-gradient&hide_border=true&border_radius=9" alt="Naman Sonawane" /></p>
 
 <p><a href="https://www.linkedin.com/in/naman-sonawane/">LinkedIn</a> :)</p>
