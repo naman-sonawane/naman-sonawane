@@ -4,9 +4,7 @@
   <img src="https://github.com/user-attachments/assets/ea39d8b8-7d5a-406f-8e07-084c1fc8574c"/>
 </picture>
 
-<p>Feel free to explore my GitHub repositories and projects.</p>
-<p><a href="https://www.linkedin.com/in/naman-sonawane/">LinkedIn</a> :)</p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=naman-sonawane&theme=ocean-gradient&hide_border=true&border_radius=9" alt="GitHub Streak" /></a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naman-sonawane&show_icons=true&theme=ambient-gradient&hide_border=true&border_radius=9" alt="Naman Sonawane" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naman-sonawane&show_icons=true&theme=ocean-gradient&hide_border=true&border_radius=9" alt="naman-sonane" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naman-sonawane&show_icons=true&theme=ocean-gradient&hide_border=true&border_radius=9" alt="naman-sonane" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naman-sonawane&theme=ocean-gradient&hide_border=true&border_radius=9" alt="naman-sonane" /></p>
+<p><a href="https://www.linkedin.com/in/naman-sonawane/">LinkedIn</a> :)</p>
