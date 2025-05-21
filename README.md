@@ -10,6 +10,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=naman-sonawane&theme=graywhite&hide_border=true&border_radius=10&background=45%2CFFFFFF%2CECECEC&fire=17EB60&dates=17EB60" alt="GitHub Streak" />
 </picture>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naman-sonawane&show_icons=true&theme=ambient-gradient&hide_border=true&border_radius=9" alt="Naman Sonawane" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naman-sonawane&layout=compact&theme=dark)
 
 <p><a href="https://www.linkedin.com/in/naman-sonawane/">LinkedIn</a> :)</p>
