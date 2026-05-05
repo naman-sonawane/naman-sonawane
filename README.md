@@ -9,16 +9,5 @@
   <br/>
 
 
-  <br/>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=naman-sonawane&layout=compact&theme=dark&hide_border=true&size_weight=0.5&count_weight=0.5&bg_color=2b2b2b&card_width=495">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=naman-sonawane&layout=compact&theme=default&hide_border=true&size_weight=0.5&count_weight=0.5&card_width=495">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naman-sonawane&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5&card_width=495" alt="Top Languages">
-  </picture>
-
-  <br/>
-
-  <p><a href="https://www.linkedin.com/in/naman-sonawane/">LinkedIn</a> :)</p>
 
 </div>
