@@ -8,11 +8,6 @@
 
   <br/>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=naman-sonawane&theme=ocean-gradient&hide_border=true&border_radius=10&background=45%2C000000%2C3B3B3B&fire=17EB60&dates=17EB60">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=naman-sonawane&theme=graywhite&hide_border=true&border_radius=10&background=45%2CFFFFFF%2CECECEC&fire=17EB60&dates=17EB60">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=naman-sonawane&theme=graywhite&hide_border=true&border_radius=10&background=45%2CFFFFFF%2CECECEC&fire=17EB60&dates=17EB60" alt="GitHub Streak" />
-  </picture>
 
   <br/>
 
