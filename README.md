@@ -2,7 +2,7 @@
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/88ad51f8-5bea-4522-baa8-a9203161fb12">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/ce5bdf13-753b-4788-b059-2c797647d124">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/c76d4670-3f93-495a-9f6c-0504dc14d66c">
     <img src="https://i.imgur.com/S5gHeZk.png" alt="Image" />
   </picture>
 
